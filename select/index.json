@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "世界に一つだけの花",
-  "base_artist": "Noriyuki Makihara",
-  "createdAt": "2025-12-04T11:48:18.737859Z",
+  "base_artist": "槇原敬之",
+  "createdAt": "2025-12-15T14:15:36.434476Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -40,81 +40,9 @@
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "世界に一つだけの花",
-      "artist": "槇原 敬之",
+      "artist": "SMAP",
       "has_synced": false,
-      "path": "select/pl_01_世界に一つだけの花_槇原_敬之.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "世界に一つだけの花",
-      "artist": "槇原 敬之",
-      "has_synced": false,
-      "path": "select/pl_02_世界に一つだけの花_槇原_敬之.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "世界に一つだけの花",
-      "artist": "槇原 敬之",
-      "has_synced": false,
-      "path": "select/pl_03_世界に一つだけの花_槇原_敬之.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "世界に一つだけの花",
-      "artist": "槇原 敬之",
-      "has_synced": false,
-      "path": "select/pl_04_世界に一つだけの花_槇原_敬之.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "世界に一つだけの花",
-      "artist": "槇原 敬之",
-      "has_synced": false,
-      "path": "select/pl_05_世界に一つだけの花_槇原_敬之.txt"
-    },
-    {
-      "id": "petitlyrics_6",
-      "source": "petitlyrics",
-      "title": "世界に一つだけの花",
-      "artist": "槇原 敬之",
-      "has_synced": false,
-      "path": "select/pl_06_世界に一つだけの花_槇原_敬之.txt"
-    },
-    {
-      "id": "petitlyrics_7",
-      "source": "petitlyrics",
-      "title": "世界に一つだけの花",
-      "artist": "槇原 敬之",
-      "has_synced": false,
-      "path": "select/pl_07_世界に一つだけの花_槇原_敬之.txt"
-    },
-    {
-      "id": "petitlyrics_8",
-      "source": "petitlyrics",
-      "title": "世界に一つだけの花 Renewed",
-      "artist": "槇原 敬之",
-      "has_synced": false,
-      "path": "select/pl_08_世界に一つだけの花_Renewed_槇原_敬之.txt"
-    },
-    {
-      "id": "petitlyrics_9",
-      "source": "petitlyrics",
-      "title": "世界に一つだけの花 Renewed",
-      "artist": "槇原 敬之",
-      "has_synced": false,
-      "path": "select/pl_09_世界に一つだけの花_Renewed_槇原_敬之.txt"
-    },
-    {
-      "id": "petitlyrics_10",
-      "source": "petitlyrics",
-      "title": "世界に一つだけの花(Renewed)",
-      "artist": "槇原 敬之",
-      "has_synced": false,
-      "path": "select/pl_10_世界に一つだけの花(Renewed)_槇原_敬之.txt"
+      "path": "select/pl_01_世界に一つだけの花_SMAP.txt"
     }
   ]
 }
